@@ -1,0 +1,102 @@
+  
+Contact
+piyushthakur3613@gmail.com
+www.linkedin.com/in/
+piyushthakurthedatagenius
+(LinkedIn)
+Top Skills
+Data Analysis
+LLM
+Artificial Intelligence (AI)
+Certifications
+Exploratory Data Analysis in SQL
+Writing Efficient Python Code
+cleaning data in python
+FOUNDATION DATA ANALYTICS
+supervised learning with scikitlearn
+Piyush Thakurr
+Experienced Data Scientist |Expert in GenAI, LLM, Agentic AI |
+Machine Learning, NLP, DL, Statistical Analysis, and Data Mining
+| Skilled in Python, R, and SQL | Big Data Technologies (Hadoop,
+Spark)|Marketing Analytics
+United States
+Summary
+seasoned Data Scientist/AI Engineer  with over 8+ years
+of professional experience, specializing in Data science,
+Python Development ,Machine Learning, Data Mining ,Data
+analysis ,Business Development and Statistical Analysis. Throughout
+my career, I have demonstrated expertise in transforming business
+requirements into analytical models, designing algorithms, and
+building scalable solutions that leverage massive volumes of both
+structured and unstructured data.
+My journey in data science has equipped me with proficiency in a
+wide range of tools and technologies. I am highly skilled in Python
+(NumPy, Pandas, matplotlib, scikit-learn), R (ggplot2, Caret, dplyr),
+SQL, LLMs (GPT,LANGCHAIN,HUGGING FACE), Agentic AI using
+langgraph, Pytorch ,keras and Excel, enabling me to implement
+data analysis with various analytic tools such as Anaconda, Jupyter
+Notebook, and R Studio. Additionally, I have hands-on experience
+with Big Data technologies including Hadoop, Spark, PySpark,
+SparkSQL, HDFS, and Hive, allowing me to extract insights from
+large datasets efficiently.
+Proficient in developing and deploying chatbots using Kore.ai
+and other platforms to enhance customer service and operational
+efficiency. Skilled in utilizing Kore.ai’s bot builder and natural
+language processing to design conversational workflows and
+integrating chatbots with various systems. 
+One of my key strengths lies in my ability to tackle complex data
+challenges across the entire data science project lifecycle. From data
+extraction and cleaning to statistical modeling and visualization, I
+am adept at every phase of the process. My expertise encompasses
+Advanced Regression Modeling, Correlation Analysis, Multivariate
+Analysis, and Business Intelligence tools.
+ Page 1 of 3
+  
+In addition to my technical skills, I am passionate about developing
+innovative solutions that drive business impact. I have a proven track
+record in Text Analytics, Natural Language Processing (NLP), and
+Deep Learning, and have successfully implemented various machine
+learning solutions to solve real-world problems.
+I thrive in dynamic environments and have experience working in
+Agile and Scrum development methodologies. As a team player, I
+excel in collaborating with cross-functional teams to deliver impactful
+solutions and foster a culture of data-driven decision-making.
+If you're looking for a dedicated and results-driven Data Scientist
+who can translate complex data into actionable insights, I would love
+to connect and explore potential opportunities.
+Experience
+Intuit
+AI/ML engineer
+October 2024 - Present (1 year 6 months)
+New York, United States
+UBS
+GenAI/ML  Engineer
+September 2023 - September 2024 (1 year 1 month)
+Wehawken, New  jersey
+T-Mobile
+ML/GenAi Engineer
+May 2023 - August 2023 (4 months)
+Remote
+FlipRobo
+Lead Data Scientist
+May 2020 - August 2022 (2 years 4 months)
+India
+Client Info Edge Solution
+Data Analyst/Data Scientist
+July 2018 - May 2020 (1 year 11 months)
+ Page 2 of 3
+  
+India
+SGS Tekniks Manufacturing Pvt. Ltd.
+Data Analyst/Data Scientist
+April 2016 - June 2018 (2 years 3 months)
+New Delhi, Delhi, India
+Education
+Stevens Institute of Technology
+Master of Science - MS, Data science · (September 2022 - December 2023)
+Institute Of Marketing and Management
+Master's degree, Marketing and operations · (August 2014 - August 2016)
+MIET
+Bachelors in engineering, Electrical, Electronics and Communications
+Engineering · (July 2008 - August 2012)
+ Page 3 of 3
